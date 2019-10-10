@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/maxym-os/beetroot_lesson_16/issues"
   },
-  "homepage": "https://github.com/maxym-os/beetroot_lesson_16#readme"
+  "homepage": "https://github.com/maxym-os/beetroot_lesson_16#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.0.2"
+  }
 }
